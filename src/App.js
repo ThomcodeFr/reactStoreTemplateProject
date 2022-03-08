@@ -10,9 +10,9 @@ function App() {
     <div className="App">
       < Headerperso />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ logo } className="App-logo" alt="logo" />
         < ProductList />
-        < Cart />
+          < Cart />
       </header>
     </div>
   )

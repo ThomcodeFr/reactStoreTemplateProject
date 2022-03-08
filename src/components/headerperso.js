@@ -5,8 +5,10 @@ function headerPerso() {
   return (
     <div className="headerperso">
       <header className="App-headerperso">
+        <section id="header-style">
         <img src={logoBlue} className="header-logo" alt="Logo des 8 fantastiques" />
-        <h1>Acheter nos templates</h1>
+          <h1>Trouver le design de CV adapté à vos besoins</h1>
+        </section>
       </header>
     </div>
   )

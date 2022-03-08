@@ -1,3 +1,14 @@
 .cv_icon {
-  width: 9rem;
+  width: 8rem;
+}
+
+.productStyleList {
+    display: block;
+    max-width: 100%;
+    height: auto}
+
+.productStyleList ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0 20px;
 }

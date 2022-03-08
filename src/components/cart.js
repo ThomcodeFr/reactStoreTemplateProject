@@ -7,7 +7,7 @@ function Cart() {
 
   return (
     <div className="affichage">
-      <h2>Votre Panier</h2>
+      <h2>🛒 Votre Panier</h2>
       <ul>
         <li>Thème CV 1 : {template1Price} €</li>
         <li>Thème CV 2 : {template2Price} €</li>
@@ -16,7 +16,7 @@ function Cart() {
         <li>Thème CV 5 : {Template5Price} €</li>
       </ul>
       Total :
-       {template1Price +
+      {template1Price +
         template2Price +
         Template3Price +
         Template4Price +

@@ -1,3 +1,15 @@
-.App-Headerperso {
+#header-style {
   display: flex;
+  justify-content: space-around;
+}
+
+#header-style img {
+  padding: auto;
+  height: auto;
+  width: 9em;
+}
+
+#header-style h1 {
+  font-size: 1rem;
+  color: rgba(40,44,52,255);
 }
