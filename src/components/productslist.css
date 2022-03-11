@@ -9,6 +9,14 @@
 
 .productStyleList ul {
   display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
   padding: 0 20px;
+}
+
+.productStyleList li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 180px;
 }
