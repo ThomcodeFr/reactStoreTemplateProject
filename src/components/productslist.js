@@ -1,4 +1,4 @@
-import '../components/productslist.css'
+import '../assets/css/productslist.css'
 
 import cv1 from '../assets/img/cv_1.png'
 import cv2 from '../assets/img/cv_2.png'

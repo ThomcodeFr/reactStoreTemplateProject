@@ -1,8 +1,8 @@
-import Headerperso from './components/headerperso.js'
+import Headerperso from './components/Headerperso.js'
 import logo from './logo.svg'
 import './App.css'
-import ProductList from './components/productslist.js'
-import Cart from './components/cart.js'
+import ProductList from './components/Productslist.js'
+import Cart from './components/Cart.js'
 
 
 

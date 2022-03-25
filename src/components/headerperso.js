@@ -1,6 +1,6 @@
-import '../components/headerperso.css'
+import '../assets/css/headerperso.css'
 import logoBlue from '../assets/img/logo-blue.png'
-import Menu2 from '../components/menuperso.js'
+import Menu2 from '../components/Menuperso.js'
 
 function headerPerso() {
   return (

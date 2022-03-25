@@ -3,9 +3,10 @@
 }
 
 .productStyleList {
-    display: block;
-    max-width: 100%;
-    height: auto}
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 
 .productStyleList ul {
   display: flex;
