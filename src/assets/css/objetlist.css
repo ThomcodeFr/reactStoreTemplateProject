@@ -1,0 +1,21 @@
+img {
+    width: 200px;
+}
+
+.ListStyle {
+  display: flex;
+  flex-direction: column;
+}
+
+.ListStyle li {
+  list-style-type: none;
+
+}
+
+.objectListDesign {
+  display: flex;
+}
+
+.objectListDesign li {
+  list-style-type: none;
+}

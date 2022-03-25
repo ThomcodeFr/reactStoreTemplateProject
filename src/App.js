@@ -1,20 +1,22 @@
 import Headerperso from './components/Headerperso.js'
 import logo from './logo.svg'
 import './App.css'
-import ProductList from './components/Productslist.js'
+import ObjetsList from './components/ObjetsList.js'
 import Cart from './components/Cart.js'
-
-
+import Footer from './components/Footer.js'
 
 function App() {
   return (
     <div className="App">
-      < Headerperso />
+      <Headerperso />
       <header className="App-header">
-        <img src={ logo } className="App-logo" alt="logo" />
-        < ProductList />
-          < Cart />
+        <img src={logo} className="App-logo" alt="logo" />
+        <ObjetsList />
+        <Cart />
       </header>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   )
 }
