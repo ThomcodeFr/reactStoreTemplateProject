@@ -2,6 +2,14 @@ img {
     width: 200px;
 }
 
+ul {
+  display: flex;
+}
+
+.StylePanier {
+  flex-direction: column;
+}
+
 .ListStyle {
   display: flex;
   flex-direction: column;
